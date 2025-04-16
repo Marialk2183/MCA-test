@@ -13,7 +13,7 @@
         android:text="Hello Maria MCA!"
         android:fontFamily="sans-serif-medium"
         android:textSize="32dp"
-        android:textColor="red"
+        android:textColor="@android:color/holo_red_dark"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
