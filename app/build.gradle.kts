@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.mca_test"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.mca_test"
